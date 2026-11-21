@@ -1,4 +1,4 @@
-# SigmaOS-arch-elixir
+# SigmaOS-elixir
 
 GitHub description is a placeholder; component scope remains unclassified.
 

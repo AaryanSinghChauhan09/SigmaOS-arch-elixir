@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-elixir"
+name = "SigmaOS-elixir"
 tier = 2
 stability = "scaffold"
 language = "rust"

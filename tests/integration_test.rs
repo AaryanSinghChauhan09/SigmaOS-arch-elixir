@@ -1,4 +1,4 @@
-use arch_elixir::Component;
+use sigmaos_elixir::Component;
 
 #[test]
 fn test_component_new_aaa() {
